@@ -1,0 +1,18 @@
+h1 {
+  font-size: 60px;
+  color: grey;
+  align-items: center;
+}
+body {
+  margin-top: 5%;
+  margin-left: 10%;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  color: grey;
+}
+a {
+  font-size: 20px;
+  margin-right: 0.5%;
+}
